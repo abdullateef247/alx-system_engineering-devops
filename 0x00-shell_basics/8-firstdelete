@@ -1,0 +1,4 @@
+#!/bin/bash
+cd tmp_link
+cd my_first_directory
+rm betty
