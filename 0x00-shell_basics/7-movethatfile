@@ -1,4 +1,2 @@
 #!/bin/bash
-cd tmp_link
-touch betty
-mv betty my_first_directory
+mv betty /tmp/my_first_directory/
